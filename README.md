@@ -3,32 +3,35 @@ Vitória, ES – Brazil
 
 This dashboard highlights my work during my internship as a Business Analyst at SPMS – Shared Services of the Ministry of Health. It showcases my skills in data analysis and Power BI visualization.
 
-Project Highlights
-Analysis of over 200,000 medical appointments in Vitória, ES
+Project Highlights:
 
-Appointment distribution by neighborhood, age, gender, and health conditions
+  - Analysis of over 200,000 medical appointments in Vitória, ES
 
-Attendance rates based on waiting time and reminder messages
+  - Appointment distribution by neighborhood, age, gender, and health conditions
 
-Comparison between subsidized and non-subsidized patients
+  - Attendance rates based on waiting time and reminder messages
 
-Interactive geographical mapping of appointments
+  - Comparison between subsidized and non-subsidized patients
 
-Data & Model
-FACT_Consultas: Enhanced public dataset from Kaggle (link)
+  - Interactive geographical mapping of appointments
 
-DIM_Bairros_Lat_Long: Custom neighborhood coordinates for map visualization
+Data & Model:
 
-DIM_Date: Filtered calendar dimension matching available dates
+  - FACT_Consultas: Enhanced public dataset from Kaggle (link)
 
-Métricas: Table organizing all DAX measures used
+  - DIM_Bairros_Lat_Long: Custom neighborhood coordinates for map visualization
 
-Tools Used
-Power BI
+  - DIM_Date: Filtered calendar dimension matching available dates
 
-DAX
+  - Métricas: Table organizing all DAX measures used
 
-Power Query
+Tools Used:
+
+  - Power BI
+
+  - DAX
+
+  - Power Query
 
 Explore the dashboard here:(https://app.powerbi.com/view?r=eyJrIjoiYjFhZDU2ZjgtODFlZS00ZmUyLWIzYWEtOWM3N2M5MDZlNmJkIiwidCI6ImFkMjhjNjI1LWYyY2EtNGU5MS1iNmQ2LTE4OTIyYmM5MzkxYyIsImMiOjh9)
 
